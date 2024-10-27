@@ -8,6 +8,36 @@ https://tw2oy25usfw.feishu.cn/wiki/F25OwaVo7i6tJekdZI9ceyBrniT?from=from_copylin
 书生大模型实战营飞书笔记（补充优化版本——适合小白观看）：
 https://tw2oy25usfw.feishu.cn/wiki/AECXwFxlGi4plwkHpwScx879nnd?from=from_copylink
 
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>My static Space</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    iframe {
+      width: 430px;
+      height: 932px;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <iframe src="https://colearn.intern-ai.org.cn/cobuild" title="description"></iframe>
+</body>
+</html>
+
+
 ## 实战营项目评选
 ![image](https://i.postimg.cc/26Pyw63D/1280-X1280.png)
 将此项目报名参加第四期实战营项目评选，有机会解锁 30% A100 和 168 团队算力点资源。
